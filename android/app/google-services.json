@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307089955808",
+    "project_id": "task-apps-wahyu",
+    "storage_bucket": "task-apps-wahyu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307089955808:android:670be7e4714132cbbda985",
+        "android_client_info": {
+          "package_name": "com.example.fecth2.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307089955808-28snk998n4o69s2fedimmram1fd1nfj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fecth2.dev",
+            "certificate_hash": "c4d81d254b5fba651ff8d89afd3de712fb334ed3"
+          }
+        },
+        {
+          "client_id": "307089955808-sf2r01oc3prhv1cuie40n58c6h1qlaj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOojiG29Wx18jl5XuE5NEXpojVWMUBJ5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307089955808-sf2r01oc3prhv1cuie40n58c6h1qlaj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
